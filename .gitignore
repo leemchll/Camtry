@@ -1,16 +1,8 @@
-# Python
-__pycache__/
-*.pyc
+# CMake build files
+build/
 
-# Virtual environments
-.venv/
-venv/
+# VS Code
+.vscode/
 
 # macOS
 .DS_Store
-
-# Camtry recordings
-recordings/
-
-# ML model weights
-*.pt
